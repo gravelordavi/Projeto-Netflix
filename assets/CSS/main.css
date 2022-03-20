@@ -45,7 +45,7 @@ header nav a:hover{
 
 .titulo-principal {
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url("/Programação/Projeto-Netflix/assets/imgs/CAPA2.jpg");
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url("/Programação/PROJETOS/Projeto-Netflix/assets/imgs/CAPA2.jpg");
 
     height: 400px;
     background-size: cover;
